@@ -1,0 +1,8 @@
+Pasos para abrir el proyecto.
+1. Abrir Visual.
+2.Terminal (escribir ng serve-o)
+3. PowerCell (npm install -g json-server)
+IMPORTANTE. si tango el paso dos continuo con el paso 3 no es necesario repetir la instalación.
+4. Powercell ( Escribir la ubicación de la carpeta heroes-server)
+5.Despues de escribir eso en terminal copiar ( json-server --watch db.json)
+6.Abrir PostMan y pegar URL generado 
